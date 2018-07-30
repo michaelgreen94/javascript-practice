@@ -79,4 +79,16 @@ console.clear()
 // \escape() 
 // ask questions about this
 
+var x = 10 + 5;
+// document.write(x);
 
+var x = 10;
+var y = (x + 5 + 22) * 3;
+// document.write(y)
+
+
+
+var z = 1994;
+var n = z % 35;
+// document.write(n);
+// gives remainder value. if z was changed to 1995 n would equal 0.
